@@ -1,0 +1,19 @@
+.dashboard-sidebar {
+    background-color: royalblue;
+    padding: 20px 50px;
+    min-height: 100vh;
+}
+.dashboard-sidebar i {
+    margin: 0px 10px 16px 10px;
+    color: #fff;
+}
+.dashboard-sidebar img {
+    margin-bottom: 40px;
+}
+.dashboard-link {
+    color: #fff;
+    cursor: pointer;
+}
+.dashboard-link:hover {
+    color: #000;
+}

@@ -1,0 +1,23 @@
+footer {
+    background-color: royalblue;
+    padding: 50px;
+}
+
+footer ul {
+    list-style-type: none;
+}
+footer ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+footer ul li a:hover {
+    color: black;
+}
+.social {
+    font-size: 25px;
+    cursor: pointer;
+} 
+.copy-right {
+    color: #fff;
+    margin: 20px 0px -50px 0px;
+}

@@ -1,0 +1,15 @@
+.header-bg {
+    background-image: url(../../../images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 130vh;
+    max-width: 100vw;
+}
+.heading {
+    font-size: 60px;
+    color: #fff;
+}
+.heading span {
+    color: #2544f0;
+}
